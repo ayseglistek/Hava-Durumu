@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hava_durumu/screens/loading_screen.dart';
-import 'package:hava_durumu/screens/main_screen.dart';
+//import 'package:hava_durumu/screens/main_screen.dart';
 
 void main() {
   runApp(MyApp());
